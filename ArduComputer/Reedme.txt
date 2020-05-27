@@ -1,0 +1,34 @@
+//Boceto ok, luego se mira como lo hacemos y ya luego lo adjuntamos al reedme.md//
+//a falta de nombres pongo nuestros Nicks//
+
+
+Créditos para:  cjisus17 - * Encargado de la Electrónica y la creación de la idea principal*
+		        GaOr - * Desarrollador del SO principal además del Kernel *
+
+La idea del prollecto es desarrollar un SO para un arduino o placa de desarrollo de la misma familia,las principales placas pensadas en este prollecto son:         Arduno UNO (rev3):
+                                Procesador: ATmega328P
+                                    Memoria flash: 32KB (0.5 usados en el gestor de arranque de arduino)
+                                    SRAM: 2KB
+                                    EEPROM: 1KB
+                                    Velocidad de reloj: 16MHz
+                                    Led de función: 13
+                                Tensión minima: 5v
+                                Tensión recomendada: 7~12v
+                                Tensión limites inferior y superior recomendados: 6~20v
+                                Pines digitales: 14 (6 son PWM)
+                                Pines analógicos: 6
+                            
+                            //por terminar
+                            Arduno MEGA-2560 (rev3):
+                                Procesador: ATmega328P
+                                    Arquitectura: 8bits
+                                    Memoria flash: 32KB (0.5 usados en el gestor de arranque de arduino)
+                                    SRAM: 2KB
+                                    EEPROM: 1KB
+                                    Velocidad de reloj: 16MHz
+                                    Led de función: 13
+                                Tensión minima: 5v
+                                Tensión recomendada: 7~12v
+                                Tensión limites inferior y superior recomendados: 6~20v
+                                Pines digitales: 14 (6 son PWM)
+                                Pines analógicos: 6
